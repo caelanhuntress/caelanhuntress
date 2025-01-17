@@ -46,15 +46,6 @@ But then AI disrupted the whole field of marketing, so now I'm learning how to c
 - [My Best Writing](https://caelanhuntress.com/writing/?utm_source=github)
 <!-- BLOG-POST-LIST:END -->
 
-## 🎯 Featured Projects
-
-<a href="https://stellarplatforms.com/case-studies/?utm_source=github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caelanhuntress&repo=project1&theme=radical" />
-</a>
-<a href="https://github.com/caelanhuntress/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caelanhuntress&repo=project2&theme=radical" />
-</a>
-
 ## 📊 Services & Expertise
 - 🎯 Marketing Systems Design
 - 🛒 Sales Funnel Development
